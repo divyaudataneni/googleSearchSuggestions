@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.arrow {
+  height: 30px;
+  padding-top: 13px;
+}
